@@ -14,7 +14,7 @@ A simple and elegant to-do list application built with pure HTML, CSS, and JavaS
 
 ## Getting Started
 
-1. Download the `index.html` file
+1. Download the `index.html style.css ` and `script.js` files from this repository
 2. Open it in any modern web browser
 3. Start adding your tasks!
 
@@ -40,7 +40,10 @@ Works in all modern browsers including:
 
 ```
 todo-app/
-└── index.html    # Complete application (HTML + CSS + JavaScript)
+└── index.html 
+└── style.css
+└── script.js 
+# Complete application (HTML + CSS + JavaScript)
 ```
 
 ## Technologies Used
