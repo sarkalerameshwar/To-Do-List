@@ -34,6 +34,7 @@ function addTask() {
 }
 
 // Toggle task completion
+
 function toggleTask(id) {
   const task = tasks.find((t) => t.id === id);
   if (task) {
